@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>my first html project</title>
+    </head>
+    <body>
+        <h1>press the link</h1>
+        <p>clink the link to vist Google:</p>
+        <a herf="https://www.google.com"
+        target="_blank">Visit OpenAi</a>
+        <ol>
+            <li>hyper text markup language</li>
+            <li>c++</li>
+            <li>java</li>
+        </ol>
+    </body>
+</html>
